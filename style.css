@@ -91,7 +91,7 @@ html {
 }
 .price-card__description {
   margin: 40px 26px;
-  font-weight: 300px;
+  font-weight: 300;
   font-size: 15px;
   line-height: 18px;
   text-align: center;
@@ -108,7 +108,7 @@ html {
   background-color: #2A3438;
 }
 .price-card__options-list-item-text {
-  font-weight: 300px;
+  font-weight: 300;
   font-size: 15px;
   line-height: 18px;
   margin-left: 22px;
