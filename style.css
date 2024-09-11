@@ -64,7 +64,7 @@ html {
   font-size: 20px;
   line-height: 24px;
 }
-.price-card_sum {
+.price-card__price {
   height: 105px;
   background-color: #5BB189;
   font-weight: 700;
@@ -75,13 +75,13 @@ html {
   justify-content: center;
   margin-top: 31px;
 }
-.price-card_sum-one {
+.price-card__price-one {
   background-color: #5BB189;
 }
-.price-card_sum-two {
+.price-card__price-two {
   background-color: #3A6BA5;
 }
-.price-card_sum-three {
+.price-card__price-three {
   background-color: #EC632A;
 }
 .price-card_description {
