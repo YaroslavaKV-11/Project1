@@ -91,18 +91,18 @@ html {
   line-height: 18px;
   text-align: center;
 }
-.price-card_function {
+.price-card__options-list {
   margin-bottom: 39px;
 }
-.price-card_function-item {
+.price-card__options-list-item {
   height: 50px;
   line-height: 50px;
   padding-left: 22px;
 }
-.price-card_function-item:nth-child(odd) {
+.price-card__options-list-item:nth-child(odd) {
   background-color: #2A3438;
 }
-.price-card_function-item-text {
+.price-card__options-list-item-text {
   font-weight: 300px;
   font-size: 15px;
   line-height: 18px;
