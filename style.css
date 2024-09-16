@@ -11,14 +11,16 @@ html {
   height: 1000px;
   background-color: #141B1C;
   display: flex;
-  margin: auto;
+  justify-content: center;
+  align-items: center;
   color: #fff;
 }
 
 .all-card {
   display: flex;
   flex-direction: row;
-  margin: auto;
+  justify-content: center;
+  align-items: center;
 }
 
 .price-card {
@@ -109,6 +111,8 @@ html {
   background-color: #2A3438;
 }
 .price-card__options-list-item-text {
+  padding-top: 2px;
+  padding-bottom: 3px;
   margin-left: 22px;
   font-weight: 300;
   font-size: 15px;
