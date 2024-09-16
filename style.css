@@ -54,7 +54,7 @@ html {
   margin-right: 18px;
 }
 .price-card__title {
-  height: 130px;
+  height: 128px;
   display: flex;
   flex-direction: column;
   align-items: center;
