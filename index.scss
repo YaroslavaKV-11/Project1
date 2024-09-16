@@ -11,15 +11,13 @@ html {
     height: 1000px;
     background-color: #141B1C;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: auto;
     color: #fff;
 }
 .all-card {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    margin: auto;
 }
 .price-card {
     width: 380px;
@@ -98,11 +96,16 @@ html {
         }
 
         &__description {
-            margin: 40px 26px;
+            height: 116px;
             font-weight: 300;
             font-size: 15px;
             line-height: 18px;
+            display: flex;
+            align-items: center;
+            padding-left: 26px;
+            padding-right: 26px;
             text-align: center;
+            margin: 0;
         }
 
         &__options-list {
